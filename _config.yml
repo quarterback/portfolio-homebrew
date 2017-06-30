@@ -19,6 +19,6 @@ url: http://portfolio.ronbronson.co.uk
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
-theme: minima
+theme: Forty
 gems:
 - jekyll-feed
